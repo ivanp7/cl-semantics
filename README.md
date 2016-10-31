@@ -1,3 +1,4 @@
-# Common Lisp library of graph-based data structures with abstractions and reuse of parts
+# Common Lisp library of abstract dataflow graph structures
 
-This is the stub README.txt for the "cl-garp" project.
+This is the stub README.txt for the "cl-dataflow" project.
+

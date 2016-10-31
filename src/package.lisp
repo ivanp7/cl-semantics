@@ -1,5 +1,5 @@
 ;;;; package.lisp
 
-(defpackage #:cl-garp
+(defpackage #:cl-dataflow
   (:use #:cl))
 

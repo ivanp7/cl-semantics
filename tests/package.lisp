@@ -1,4 +1,4 @@
 ;;;; package.lisp
 
-(defpackage #:cl-garp-tests
-  (:use #:cl #:fiveam #:cl-garp))
+(defpackage #:cl-dataflow-tests
+  (:use #:cl #:fiveam #:cl-dataflow))
