@@ -1,4 +1,3 @@
-# Common Lisp library of abstract dataflow graph structures
+# Common Lisp library of semantic nets
 
-This is the stub README.txt for the "cl-dataflow" project.
-
+This is the stub README.txt for the "cl-semantic" project.

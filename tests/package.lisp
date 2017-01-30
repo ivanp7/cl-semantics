@@ -1,4 +1,4 @@
 ;;;; package.lisp
 
-(defpackage #:cl-dataflow-tests
-  (:use #:cl #:fiveam #:cl-dataflow))
+(defpackage #:cl-semantic-tests
+  (:use #:cl #:fiveam #:cl-semantic))

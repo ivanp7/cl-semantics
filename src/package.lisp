@@ -1,5 +1,5 @@
 ;;;; package.lisp
 
-(defpackage #:cl-dataflow
+(defpackage #:cl-semantic
   (:use #:cl))
 
