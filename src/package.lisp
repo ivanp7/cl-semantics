@@ -1,5 +1,5 @@
 ;;;; package.lisp
 
-(defpackage #:cl-semantic
+(defpackage #:cl-semantics
   (:use #:cl))
 
